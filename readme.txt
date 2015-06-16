@@ -1,1 +1,1 @@
-git is a goog tool!!
+git is a good tool!! I like it too much.
